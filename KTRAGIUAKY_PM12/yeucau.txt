@@ -1,0 +1,12 @@
+﻿0209266_product_57 (
+  pid, pname, pdesc, pimage, pprice, pquantity, phot, pinsertdate, pupdatedate, cid, pstatus, sid, colorid
+)
+0209266_categories_57 (
+  cid, cname, cimage, cdesc, corder, cstatus
+)
+0209266_supplier_57 (
+  sid, sname, saddress, sphone, stax, sstatus
+)
+0209266_size_57 (
+  sizeid, sizename, sizestatus
+)
